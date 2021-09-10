@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+You can use this project to save new memos (articles).
+You can comment your articles.
 
-Things you may want to cover:
+This project use a basic authentication to edit stuff. Username: root, Password: "password".
 
-* Ruby version
+# To run:
+inside project folder type rails s. You can access with http://127.0.0.1:3000/ 
 
-* System dependencies
+# Todo:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Apply css to everything.
